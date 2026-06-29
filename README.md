@@ -1,2 +1,2 @@
 # GPAcalculator
-GPA Calculator project
+GPA Calculator part of Sudent Manegment System project
